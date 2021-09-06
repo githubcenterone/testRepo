@@ -1,1 +1,2 @@
 Writing a new line.
+New text has been added.
